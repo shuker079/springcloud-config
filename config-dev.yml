@@ -1,3 +1,2 @@
 config:
-  info:
-    this is a demo.
+  info: "This is a demo"
